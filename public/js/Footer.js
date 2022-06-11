@@ -15,7 +15,7 @@ class Footer extends React.Component {
     // Make a request for a user with a given ID
     axios
       .get(
-        'https://raw.githubusercontent.com/chrisleekr/binance-trading-bot/master/package.json'
+        'https://wasapizz.tech/package.json'
       )
       .then(response => {
         // handle success
