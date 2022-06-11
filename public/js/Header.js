@@ -26,7 +26,7 @@ class Header extends React.Component {
                 className='binance-img'
                 alt='Binance logo'
               />{' '}
-              Binance Trading Bot
+              Alex Binance Trading Bot
             </h1>
           </div>
           <div className='header-column header-column-icon'>
@@ -41,7 +41,7 @@ class Header extends React.Component {
 
             <div className='header-column-icon-wrapper github-wrapper'>
               <a
-                href='https://github.com/chrisleekr/binance-trading-bot'
+                href='https://github.com/dickwood99/binance-trading-bot'
                 target='_blank'
                 className='btn btn-sm p-0 pl-1 pr-1'
                 rel='noreferrer'>
